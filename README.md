@@ -1,6 +1,4 @@
-**README.md（給 GitHub 倉庫）**
-
-# ChannelMonitorApp
+# Maplestory_Artale_Map_Helper
 
 **簡介**
 
