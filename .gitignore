@@ -1,0 +1,22 @@
+# Python 快取
+__pycache__/
+*.py[cod]
+
+# 打包輸出
+build/
+dist/
+*.egg-info/
+
+# PyInstaller
+*.spec
+*.exe
+
+# 使用者設定檔
+watched_maps.json
+
+# 作業系統檔案
+.DS_Store
+Thumbs.db
+
+# 其他
+.venv/
